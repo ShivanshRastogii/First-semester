@@ -1,0 +1,25 @@
+
+.top{
+    background-color: rgb(43, 101, 130);
+    border: 2px solid rgb(43, 101, 130);
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(183, 226, 230);
+    max-width: 500px;
+    font-size: 25px;
+}
+.quote{
+    font-size: 20px;
+}
+.heading{
+    margin: 0;
+}
+.upcomingEvent{
+    padding-left: 20px;
+}
+table{
+    border : 2px solid black;
+}
+
+
